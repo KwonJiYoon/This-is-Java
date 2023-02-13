@@ -1,6 +1,6 @@
 package ch03.sec01;
 
-public class SignOperationExample {
+public class SignOperatorExample {
     public static void main(String[] args) {
 
         int x = -100;
